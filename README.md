@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/juan-martin-arrayago">
   <img src="https://img.shields.io/badge/LinkedIn-Disponible%20para%20proyectos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://martin-arrayago.com">
+<a href="[https://martin-arrayago.com](https://new-protfolio-xi.vercel.app/)">
   <img src="https://img.shields.io/badge/Portfolio-martin--arrayago.com-22c55e?style=for-the-badge&logo=firefox&logoColor=white" />
 </a>
 <a href="mailto:jarrayago1@abc.com.ar">
@@ -185,7 +185,7 @@ const juan = {
 
 ¿Tenés un proyecto en mente? Hablemos.
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-martin--arrayago.com-22c55e?style=for-the-badge)](https://martin-arrayago.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-martin--arrayago.com-22c55e?style=for-the-badge)](https://new-protfolio-xi.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Martín_Arrayago-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-martin-arrayago)
 [![Facebook](https://img.shields.io/badge/Facebook-juan.arrayago-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/juan.arrayago)
 [![PayPal](https://img.shields.io/badge/PayPal-Apoyá_mi_trabajo-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/pagos3d)
